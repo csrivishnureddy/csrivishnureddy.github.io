@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Oct 2025 01:31:00 at https://www.ienergizerbpo.com/Default +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ienergizerbpo.com/Default -O1 "C:\My Web Sites\Ienrgizer" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:34:37	Error: 	"Not Found" (404) at link https://www.ienergizerbpo.com/sites/default/files/our-ser-bgimg_0.png (from https://www.ienergizerbpo.com/Default)
+01:34:37	Error: 	"Not Found" (404) at link https://www.ienergizerbpo.com/css/owl.video.play.png (from https://www.ienergizerbpo.com/css/owl.carousel.css)
+01:34:37	Error: 	"Not Found" (404) at link https://www.ienergizerbpo.com/telecom.html (from https://www.ienergizerbpo.com/healthcare)
+01:34:37	Error: 	"Not Found" (404) at link https://www.ienergizerbpo.com/automobiles.html (from https://www.ienergizerbpo.com/telecom)
+01:34:46	Error: 	"Not Found" (404) at link https://www.ienergizerbpo.com/sites/default/files/bannerinner-thank_0.jpg (from https://www.ienergizerbpo.com/corporate-news)
+01:34:46	Error: 	"Not Found" (404) at link https://www.ienergizerbpo.com/images/images-thnx-icon.png (from https://www.ienergizerbpo.com/corporate-news)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 59 seconds : 426 links scanned, 418 files written (24954482 bytes overall) [25050567 bytes received at 104814 bytes/sec], 210573 bytes transferred using HTTP compression in 2 files, ratio 14%, 1.0 requests per connection
+(6 errors, 0 warnings, 0 messages)
